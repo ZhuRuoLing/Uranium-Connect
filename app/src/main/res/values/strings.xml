@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Uranium Connect</string>
+    <string name="server_ip">ServerIP:Port</string>
+    <string name="key_crypt">Server Crypto Key</string>
+    <string name="key">Server Login Key</string>
+    <string name="save_login_info">Login</string>
+    <string name="load_from_file">Load From File</string>
+    <string name="title_activity_command">CommandActivity</string>
+    <string name="whitelist">Whitelist</string>
+    <string name="server">Server Control</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Exit</string>
+
+    <string name="menu_home">Server</string>
+    <string name="menu_gallery">Whitelist</string>
+    <string name="wl_name">Whitelist Name</string>
+    <string name="wl_operation">Operation</string>
+    <string name="wl_result">Result will be shown at here.</string>
+    <string name="wl_player_name">Player Name</string>
+</resources>

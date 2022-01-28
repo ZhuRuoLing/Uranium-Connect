@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/jkl-9/UraniumConnect/app/src/main/res/drawable/ic_menu_camera.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/jkl-9/UraniumConnect/app/src/main/res/layout/activity_command.xml" value="0.22008547008547008" />
+        <entry key="..\:/Users/jkl-9/UraniumConnect/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/jkl-9/UraniumConnect/app/src/main/res/layout/app_bar_command.xml" value="0.1" />
+        <entry key="..\:/Users/jkl-9/UraniumConnect/app/src/main/res/layout/content_command.xml" value="0.1" />
+        <entry key="..\:/Users/jkl-9/UraniumConnect/app/src/main/res/layout/fragment_command.xml" value="0.22008547008547008" />
+        <entry key="..\:/Users/jkl-9/UraniumConnect/app/src/main/res/layout/fragment_control.xml" value="0.22008547008547008" />
+        <entry key="..\:/Users/jkl-9/UraniumConnect/app/src/main/res/layout/fragment_gallery.xml" value="0.25" />
+        <entry key="..\:/Users/jkl-9/UraniumConnect/app/src/main/res/layout/fragment_home.xml" value="0.22008547008547008" />
+        <entry key="..\:/Users/jkl-9/UraniumConnect/app/src/main/res/layout/fragment_slideshow.xml" value="0.22008547008547008" />
+        <entry key="..\:/Users/jkl-9/UraniumConnect/app/src/main/res/layout/nav_header_command.xml" value="0.22008547008547008" />
+        <entry key="..\:/Users/jkl-9/UraniumConnect/app/src/main/res/menu/activity_command_drawer.xml" value="0.22008547008547008" />
+        <entry key="..\:/Users/jkl-9/UraniumConnect/app/src/main/res/menu/activity_main_drawer.xml" value="0.22008547008547008" />
+        <entry key="..\:/Users/jkl-9/UraniumConnect/app/src/main/res/menu/command.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
